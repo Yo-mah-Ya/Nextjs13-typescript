@@ -1,0 +1,17 @@
+{
+  "name": "React_template",
+  "short_name": "React_template",
+  "description": "This is sample repository of React",
+  "dir": "auto",
+  "lang": "en",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/assets/app-icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
